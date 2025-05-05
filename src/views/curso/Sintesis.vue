@@ -2,7 +2,7 @@
   .curso-main-container.creditos-vista
     BannerInterno(subTitulo="SÍNTESIS")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p(data-aos="fade-up").mb-5 La Unidad 3: Bioética y sostenibilidad en el desarrollo económico global, establece los principios esenciales para comprender cómo los valores éticos y bioéticos pueden orientar el desarrollo económico hacia la sostenibilidad. Esta unidad proporciona una perspectiva integral sobre la relación entre la economía, el medio ambiente y los derechos humanos, destacando la importancia de prácticas responsables en contextos globalizados. Este enfoque asegura que los estudiantes adquieran una comprensión sólida de los desafíos éticos actuales y las estrategias sostenibles, permitiéndoles aplicar estas herramientas de manera efectiva en su formación profesional y en la vida cotidiana.
+      p(data-aos="fade-up").mb-5 La Unidad 1: Introducción a la Inteligencia Artificial, proporciona los fundamentos esenciales para comprender qué es la IA, cómo ha evolucionado a lo largo del tiempo y de qué manera impacta diversos sectores de la sociedad. Esta unidad establece las bases conceptuales y tecnológicas necesarias para reconocer las capacidades, clasificaciones y aplicaciones prácticas de la IA, abordando también sus implicaciones éticas y sociales. Este enfoque integral garantiza que los estudiantes adquieran una comprensión clara y actualizada sobre esta disciplina, lo cual les permitirá desenvolverse con criterio en entornos digitales y tecnológicos cada vez más complejos.
 
       .row.justify-content-center
         .col-lg-12.mb-5
