@@ -597,29 +597,19 @@ export default {
           {
             id: 1,
             texto:
-              '¿Cuál de las siguientes es una característica fundamental de los derechos humanos?',
+              'El "invierno de la IA" se refiere a periodos en los que el entusiasmo y la inversión en IA disminuyeron.',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Son temporales y cambiantes',
+                texto: 'Falso',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Son universales y aplican a todas las personas',
+                texto: 'Verdadero',
                 esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Son exclusivos de ciertos grupos',
-                esCorrecta: false,
-              },
-              {
-                id: 'd',
-                texto: 'Son opcionales',
-                esCorrecta: false,
               },
             ],
             mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -627,29 +617,18 @@ export default {
           },
           {
             id: 2,
-            texto:
-              '¿Cuál de las siguientes afirmaciones sobre la diversidad cultural es correcta?',
+            texto: 'La IA no tiene ninguna aplicación en la ciberseguridad.',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Fomenta la homogeneización cultural',
-                esCorrecta: false,
-              },
-              {
-                id: 'b',
-                texto: 'Promueve el respeto y la aceptación de las diferencias',
+                texto: 'Falso',
                 esCorrecta: true,
               },
               {
-                id: 'c',
-                texto: 'Debilita la identidad cultural de los pueblos',
-                esCorrecta: false,
-              },
-              {
-                id: 'd',
-                texto: 'Limita las oportunidades de interacción',
+                id: 'b',
+                texto: 'Verdadero',
                 esCorrecta: false,
               },
             ],
@@ -659,28 +638,18 @@ export default {
           {
             id: 3,
             texto:
-              'La mediación en un conflicto tiene como objetivo principal:',
+              'El uso de IA en el diagnóstico médico es menos preciso que los métodos tradicionales.',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Imponer una solución rápida',
-                esCorrecta: false,
-              },
-              {
-                id: 'b',
-                texto: 'Facilitar el diálogo entre las partes',
+                texto: 'Falso',
                 esCorrecta: true,
               },
               {
-                id: 'c',
-                texto: 'Determinar la culpabilidad',
-                esCorrecta: false,
-              },
-              {
-                id: 'd',
-                texto: 'Ignorar las preocupaciones de una parte',
+                id: 'b',
+                texto: 'Verdadero',
                 esCorrecta: false,
               },
             ],
@@ -689,29 +658,30 @@ export default {
           },
           {
             id: 4,
-            texto: 'En un foro comunitario, es importante:',
+            texto: '¿Cuál de estas afirmaciones sobre la IA es correcta?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Escuchar solo a las autoridades',
+                texto: 'La IA solo se usa en dispositivos móviles',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Fomentar la participación de todos los miembros',
-                esCorrecta: true,
+                texto: 'La IA no tiene impacto en la educación',
+                esCorrecta: false,
               },
               {
                 id: 'c',
-                texto: 'Decidir por votación sin consultar a los demás',
+                texto: 'La IA es un concepto reciente del siglo XXI',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Excluir las opiniones de los más jóvenes',
-                esCorrecta: false,
+                texto:
+                  'La IA se usa en múltiples sectores, desde la salud hasta el entretenimiento',
+                esCorrecta: true,
               },
             ],
             mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -720,28 +690,28 @@ export default {
           {
             id: 5,
             texto:
-              '¿Qué busca la justicia restaurativa en el contexto de un conflicto?',
+              '¿Qué tipo de IA es puramente teórica y aún no ha sido desarrollada?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Aplicar una sanción severa',
+                texto: 'IA Débil',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Reparar el daño y restablecer las relaciones',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Castigar a las partes involucradas',
+                texto: 'IA General',
                 esCorrecta: false,
               },
               {
+                id: 'c',
+                texto: 'IA Superinteligente',
+                esCorrecta: true,
+              },
+              {
                 id: 'd',
-                texto: 'Ignorar el contexto del conflicto',
+                texto: 'IA con Memoria Limitada',
                 esCorrecta: false,
               },
             ],
