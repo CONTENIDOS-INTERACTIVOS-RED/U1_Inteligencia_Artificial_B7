@@ -207,8 +207,7 @@
             td Análisis e interpretación de imágenes y videos.
             td Seguridad en aeropuertos, vehículos autónomos, detección de enfermedades en imágenes médicas.
 
-    #t_1_1.titulo-segundo(data-aos="flip-up")
-      h2 #[span 1.1] Subtítulo tema
+ 
 
     .bg-full-width.border-top.color-primario
       .p-4.p-md-5
