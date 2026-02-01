@@ -201,7 +201,7 @@
           tr
             td Control de calidad
             td Visión artificial, inspección automatizada, reducción de desperdicios.
-            td BMW utiliza IA para la inspección d e pintura en autos.
+            td BMW utiliza IA para la inspección de pintura en autos.
           tr.bg-color-8
             td Logística y cadena de suministro
             td Optimización de rutas, gestión de inventarios, almacenes automatizados.
@@ -216,7 +216,7 @@
             td Autodesk optimiza el diseño en la industria aeroespacial.
     
     #t_3_4.titulo-segundo(data-aos="flip-up")
-      h2 #[span 3.4] Sector de la salud
+      h2 #[span 3.4] Transporte y movilidad
     
     .row.mb-5
       .col-lg-4.order-2
@@ -359,7 +359,7 @@
           tr
             td Educación inclusiva y accesible
             td Traducción en tiempo real, reconocimiento de voz, lectura de textos en voz alta. 
-            td SMicrosoft Immersive Reader ayuda a los estudiantes con dislexia.
+            td Microsoft Immersive Reader ayuda a los estudiantes con dislexia.
           tr.bg-color-8
             td Gamificación y realidad virtual
             td Juegos educativos, simulaciones, aprendizaje inmersivo con realidad aumentada.
@@ -571,6 +571,14 @@
           p.d-flex.my-4
             img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
             a(href="https://youtu.be/zkM6TgBnvro" target="_blank" rel="noopener noreferrer") Profe Luis. (2025, 22 de marzo). Introducción a la Inteligencia Artificial: Conceptos, historia y aplicaciones de la IA [Video]. Youtube. 
+
+          p.d-flex.my-4
+            img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+            a(href="https://www.docusign.com/es-mx/blog/aplicaciones-inteligencia-artificial" target="_blank" rel="noopener noreferrer") Docusing (2025) 5 aplicaciones prácticas de la inteligencia artificial 
+
+          p.d-flex.my-4
+            img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+            a(href="https://youtu.be/OjxN1vIJi1E?si=iqSQlJSZfIted9Tb" target="_blank" rel="noopener noreferrer") RF Explica (2023, 25 de julio) Conceptos básicos y aplicaciones de Inteligencia Artificial. 
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
